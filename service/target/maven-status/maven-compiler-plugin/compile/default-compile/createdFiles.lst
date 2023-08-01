@@ -1,0 +1,5 @@
+it\bootcamp\Constants.class
+it\bootcamp\service\UserService.class
+it\bootcamp\service\IUserService.class
+it\bootcamp\mapper\Mapper.class
+it\bootcamp\mapper\UserMapper.class

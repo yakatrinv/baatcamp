@@ -1,0 +1,13 @@
+it\bootcamp\Constants.class
+it\bootcamp\repository\UserRepository.class
+it\bootcamp\model\UserResponse.class
+it\bootcamp\validation\RolesValidator.class
+it\bootcamp\repository\RoleRepository.class
+it\bootcamp\model\Role$RoleBuilder.class
+it\bootcamp\model\User.class
+it\bootcamp\model\Role.class
+it\bootcamp\model\UserList$UserListBuilder.class
+it\bootcamp\validation\RolesConstraint.class
+it\bootcamp\model\User$UserBuilder.class
+it\bootcamp\model\UserResponse$UserResponseBuilder.class
+it\bootcamp\model\UserList.class

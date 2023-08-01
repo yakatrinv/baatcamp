@@ -1,0 +1,4 @@
+it\bootcamp\DataApplicationTest.class
+it\bootcamp\validation\RolesValidatorTest.class
+it\bootcamp\repository\RoleRepositoryTest.class
+it\bootcamp\repository\UserRepositoryTest.class
